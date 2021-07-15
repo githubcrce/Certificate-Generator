@@ -17,5 +17,5 @@ You need to have Python installed on your PC. If you do not have you can [instal
    ```
 4. Run the Certificate Generator
    ```sh
-   python .py
+   python certificate_generator.py
    ```
